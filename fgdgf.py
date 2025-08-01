@@ -151,3 +151,4 @@ if a==("d"):
         print("With a brave giggle, BooBoo took a bite. The cheese stretched and tangled, but BooBoo spun and twirled, escaping every sticky trap with his nimble moves.")
         print("The pizza didn’t defeat him—instead, BooBoo’s cuteness and cleverness won the day! The other ghosts cheered, amazed by his bravery.")
         print("From then on, BooBoo was known as the bravest ghost in the cavern, proving that even the cutest spirits can conquer their fears and enjoy a slice of adventure!")
+        
