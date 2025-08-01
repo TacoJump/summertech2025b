@@ -116,7 +116,7 @@ if a==("c"):
         print("His art brought joy and hope to the cavern, proving that creativity could shine even in the strangest places.")
     if d==("d"):
         o=input("choose a name")
-        print(h+" the cat loved to read more than anything else in the poop cavern. Every day, he curled up with a book beneath a glowing slimeberry lamp, his tail flicking with excitement as he turned each page.")
+        print(o+" the cat loved to read more than anything else in the poop cavern. Every day, he curled up with a book beneath a glowing slimeberry lamp, his tail flicking with excitement as he turned each page.")
         print("He devoured stories about brave explorers, clever inventors, and magical lands far beyond the cavern walls. The other creatures watched in awe as Whiskers shared tales and facts, inspiring everyone to learn and dream.")
         print("One day, Whiskers discovered a mysterious ancient book hidden deep in the cavern. As he read aloud, the words shimmered and revealed a secret map to a treasure of enchanted soap.")
         print("With his love of reading and a curious mind, Whiskers led his friends on a grand adventure, attemping to find the lost treasure of gdffash. unfortunitely, whiskers was never seen again.")
